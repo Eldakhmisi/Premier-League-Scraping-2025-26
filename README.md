@@ -1,6 +1,6 @@
 # Premier League 2025/26 Squad & Stats Scraper
 
-![Project Preview]([https://example.com/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.givemesport.com%2Fpremier-league-start-date-fixtures-teams-tickets-tv-transfer-window%2F&psig=AOvVaw0VQPN865OwPaQh3cmMHMMS&ust=1754002551561000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDTz-vW5Y4DFQAAAAAdAAAAABAE))
+![Project Preview](https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/05/epl_pl-date_tiime_fixtures.jpg)
 
 This project is a **Python-based web scraper** that collects:
 
